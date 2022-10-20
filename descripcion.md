@@ -11,4 +11,4 @@ Todos los paquetes de Internet tienen una cabecera que incluye una dirección IP
 * Los paquetes que pasan de la red privada a la red pública tendrán su dirección de origen modificada y compatible con la red publica.
 * Los paquetes que pasan a la red pública de regreso a la red privada tendrán su dirección de destino modificada y compatible con la red publica.
 
-[Arquitectura NAT](img/NAT-Concept.png)
+![Arquitectura NAT](./img/NAT-Concept.png)
