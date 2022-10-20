@@ -1,0 +1,2 @@
+# NAT
+Nat configuración  
