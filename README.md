@@ -17,3 +17,5 @@ Como hacer traducción de direcciones de red o enmascaramiento IP
 
 
 ![]( Screenshot_2022-10-20-15-58-26-043_com.google.android.youtube.jpg)
+
+![]( Screenshot_2022-10-20-15-59-58-847_com.google.android.youtube.jpg)
