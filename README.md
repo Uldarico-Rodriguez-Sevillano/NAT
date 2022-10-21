@@ -15,3 +15,5 @@ Como hacer traducción de direcciones de red o enmascaramiento IP
 * [Descripcion de NAT](./descripcion.md)
 * [Configuracion de NAT](./configuracion.md)
 
+
+![]( Screenshot_2022-10-20-15-58-26-043_com.google.android.youtube.jpg)
